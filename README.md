@@ -4,7 +4,6 @@ Today in the 21st-century marriage is no longer just recognise as opposite gende
 ![screen shot 2017-09-11 at 16 16 08](https://user-images.githubusercontent.com/23315228/30282174-6a1266ea-970c-11e7-924d-09f097d0b26a.png)
 
 ## Author
-Deatils of the Original Author and Development Lead.
 
 * **Author-name:** Michael Brennan
 * **Author-email:** michael.brennan1@ucdconnect.com
